@@ -3,7 +3,7 @@
   "version": "0.2.3",
   "name": "YetiPad",
   "short_name": "",
-  "start_url-disabled": "./",
+  "start_url": "https://yetipad.mikelongworth.uk",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
